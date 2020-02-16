@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://www.zfjhs.com/app/zf.ipa</string>
+<string>http://A6024208652929.qiniucdn.apicloud-system.com/41ec275507004214db47b06522298799.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://www.apicloud.com/icon/a6/c4/a6c4d2aa6949686819f17b28d7dcb551.57x57.png</string>
+<string>http://www.apicloud.com/icon1/96/30/96304836c60c3208b994411fb27fb007.57x57.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -27,7 +27,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://www.apicloud.com/icon/a6/c4/a6c4d2aa6949686819f17b28d7dcb551.57x57.png</string>
+<string>http://www.apicloud.com/icon1/96/30/96304836c60c3208b994411fb27fb007.57x57.png</string>
 </dict>
 </array>
 <key>metadata</key>
